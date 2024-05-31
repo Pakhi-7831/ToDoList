@@ -1,7 +1,6 @@
 # ToDoList application for Android devices
 A convenient application for listing and management of data 
 
-![image](img1.jpg)  ![image](img3.jpg)
 ## Table of Content 
 1. [Features](#features-)
 2. [Motivation](#motivation-behind-the-project-)
